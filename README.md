@@ -1,1 +1,1 @@
-# DiceGame
+This is a command-line Dice Game developed in C#. It lets the player compete against the computer using random dice rolls while ensuring fairness with HMAC-based validation. The game also includes a probability table to display the chances of winning for different dice configurations.
